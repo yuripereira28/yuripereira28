@@ -38,10 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yuripereira28/yuripereira28/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
