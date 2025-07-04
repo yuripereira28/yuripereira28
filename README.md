@@ -22,12 +22,11 @@ Atualmente em transição de carreira para a área de tecnologia, com uma bagage
 - Automação de tarefas com agentes inteligentes
 - Desenvolvimento web
 - Criação de projetos simples com propósito real
-- Aprender com quem já está no jogo
 
 ---
 
 > 💡 Sempre em beta, aprendendo algo novo todos os dias.  
-> **Aberto a colaborações, feedbacks e conexões!*
+> **Aberto a colaborações, feedbacks e conexões!**
 
 ###
 
