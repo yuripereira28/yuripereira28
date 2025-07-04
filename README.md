@@ -4,7 +4,7 @@
 
 Atualmente em transição de carreira para a área de tecnologia, com uma bagagem sólida em RH e projetos com foco em inovação, automação e experiência do usuário.
 
-🎓 Estudante de Inteligência Artificial com foco em Desenvolvimento (conclusão: 2028)  
+🎓 Cursando Graduação em Inteligência Artificial com foco em Desenvolvimento (Previsão de conclusão: 2028)  
 💻 Apaixonado por resolver problemas com código, IA e automações acessíveis  
 🚀 Buscando minha primeira oportunidade como estagiário em Desenvolvimento/IA
 
