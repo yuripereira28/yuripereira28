@@ -6,7 +6,6 @@ Atualmente em transição de carreira para a área de tecnologia, com uma bagage
 
 🎓 Cursando Graduação em Inteligência Artificial com foco em Desenvolvimento (Previsão de conclusão: 2028)  
 💻 Apaixonado por resolver problemas com código, IA e automações acessíveis  
-🚀 Buscando minha primeira oportunidade como estagiário em Desenvolvimento/IA
 
 ### 👨‍💻 Tecnologias e ferramentas que estudo e pratico:
 
@@ -20,7 +19,7 @@ Atualmente em transição de carreira para a área de tecnologia, com uma bagage
 ### 📈 Alguns interesses:
 - IA aplicada ao dia a dia
 - Automação de tarefas com agentes inteligentes
-- Desenvolvimento web
+- Desenvolvimento
 - Criação de projetos simples com propósito real
 
 ---
